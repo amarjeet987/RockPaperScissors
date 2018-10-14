@@ -22,4 +22,4 @@ It contains the openCV implementation of real-time data collection for training 
 **5)** Open the __game.ipynb__ file, start the game, ENJOY!!!
 
 
-Check out <a href = "https://www.linkedin.com/feed/update/urn:li:activity:6456952556118736896/">this</a> link above for the demo to see how it works.
+Check out <a href = "https://drive.google.com/open?id=1FbpNejynJtUHkln9xuOlq8GOvXkLeWJz">this</a> link above for the demo to see how it works.
