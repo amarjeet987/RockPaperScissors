@@ -15,4 +15,4 @@ Input -> Conv2D -> MaxPool2D -> Conv2D -> MaxPool2D -> Conv2D -> MaxPool2D -> Fl
 It contains the openCV implementation of real-time data collection for training and testing, as well as the logic for rock, paper, scissors as well. 
 
 ## How to proceed :
-**1)** After cloning the repository, open and run the "game.ipynb" file.
+**1)** After cloning the repository, open and run the __game.ipynb__ file.
