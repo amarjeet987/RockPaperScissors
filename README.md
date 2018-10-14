@@ -20,3 +20,6 @@ It contains the openCV implementation of real-time data collection for training 
 **3)** Open the __train.ipynb__ file and start training the model on the dataset, it will take a while, go for a walk or something.<br>
 **4)** Feel free to play around with the model, and when done, close the file.<br>
 **5)** Open the __game.ipynb__ file, start the game, ENJOY!!!
+
+
+Check out the link above for the demo to see how it works.
