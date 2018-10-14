@@ -7,8 +7,7 @@ This file contains the CNN model, and code for training and testing the model, a
 
 **The model :**
 ````python
-
-
+Input -> Conv2D -> MaxPool2D -> Conv2D -> MaxPool2D -> Conv2D -> MaxPool2D -> Flatten -> Dense -> Dropout -> Dense(Output layer)
 ````
 
 
