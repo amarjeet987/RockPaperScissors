@@ -1,2 +1,5 @@
 # RockPaperScissors
-Rock Paper Scissor implemented using openCV and Keras.
+
+## Files :
+
+## 1) __trainer.ipynb__
