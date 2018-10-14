@@ -15,8 +15,8 @@ Input -> Conv2D -> MaxPool2D -> Conv2D -> MaxPool2D -> Conv2D -> MaxPool2D -> Fl
 It contains the openCV implementation of real-time data collection for training and testing, as well as the logic for rock, paper, scissors as well. 
 
 ## How to proceed :
-**1)** After cloning the repository, open and run the __game.ipynb__ file.
-**2)** Follow the instructions for training the model, when done, close the file.
-**3)** Open the __train.ipynb__ file and start training the model on the dataset, it will take a while, go for a walk or something.
-**4)** Feel free to play around with the model, and when done, close the file.
+**1)** After cloning the repository, open and run the __game.ipynb__ file.<br><br>
+**2)** Follow the instructions for training the model, when done, close the file.<br><br>
+**3)** Open the __train.ipynb__ file and start training the model on the dataset, it will take a while, go for a walk or something.<br><br>
+**4)** Feel free to play around with the model, and when done, close the file.<br><br>
 **5)** Open the __game.ipynb__ file, start the game, ENJOY!!!
